@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b6829703.css",
+    "main.js": "/static/js/main.797d25a5.js",
+    "static/media/marked.cjs": "/static/media/marked.9d11e79e65a241a47955.cjs",
+    "static/media/eye-hide.svg": "/static/media/eye-hide.c3b01586b2e079da4887c6920eaec752.svg",
+    "static/media/eye-active.svg": "/static/media/eye-active.6fdc1a1de49b89721d25a5bb009bf249.svg",
+    "index.html": "/index.html",
+    "main.b6829703.css.map": "/static/css/main.b6829703.css.map",
+    "main.797d25a5.js.map": "/static/js/main.797d25a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6829703.css",
+    "static/js/main.797d25a5.js"
+  ]
+}
